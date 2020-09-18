@@ -10,7 +10,7 @@
 
 I am Saiful Riza 😃. I am from Aceh, Indonesia and currently doing my B.Tech from Malikussaleh University,Lhokseumawe 🏫.I love to explore and learn about new things.
 
-## Hello World!! 🤔
+## Hello World!! 👋
 - 💬 Ask me about anything an everything.
 - ⚡ Fun fact: The average website produces 1.76 grams CO2 per page view.
 
