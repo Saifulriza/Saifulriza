@@ -15,3 +15,4 @@ I am Saiful Riza 😃. I am from Aceh, Indonesia and currently doing my B.Tech f
 - ⚡ Fun fact: The average website produces 1.76 grams CO2 per page view.
 
 ![Riza's github stats](https://github-readme-stats.vercel.app/api?username=saifulriza&hide=["issues"]&show_icons=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=saifulriza)
